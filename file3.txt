@@ -1,2 +1,1 @@
-ihi:x
-:x
+Git Editor is added
